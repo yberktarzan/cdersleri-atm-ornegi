@@ -1,2 +1,3 @@
-# cdersleri atm ornegi
- C/C++ ile ATM örneği (C Dersleri
+# C/C++ Dersleri - ATM Örneği
+
+### Yüksel Berk TARZAN
