@@ -1,3 +1,3 @@
-# C/C++ Dersleri - ATM Örneği
+# C/C++ Dersleri
 
 ### Yüksel Berk TARZAN
